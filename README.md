@@ -13,17 +13,17 @@ This workshop is intended to orient the complete novice to the world of cloud co
 
 ## Format
 
-**Introduction:** *10 min* -  LINK TO SLIDES HERE
+**Introduction:** *10 min* -  Introduction.md
 
 **The Cloud Classroom:** *15 min* - Cloud_Classroom.md
 
 **Sharing Reproducable Workflows:** *15 min* - Sharing_Workflows.md
 
-**Other Use Case:** *15 min* - link or filename
+**Cloud Tools for Research:** *15 min* - GEE_Notebook.md
 
-**Another Use Case:** *15 min* - Another link or filename
+**Deploying a Web App:** *15 min* - Deploying_WebApp.md
 
-**Access & Grants:** *3 min* - link to access & grants page
+**Access & Grants:** *3 min* - Access_Grants.md
 
 **Where to get help:** *2 min*  
 link to  
