@@ -19,9 +19,11 @@ This workshop is intended to orient the complete novice to the world of cloud co
 
 **Sharing Reproducable Workflows:** *15 min* - Sharing_Workflows.md
 
-**Cloud Tools for Research:** *15 min* - GEE_Notebook.md
+**Cloud Tools for Research:** *10 min* - GEE_Notebook.md
 
-**Deploying a Web App:** *15 min* - Deploying_WebApp.md
+**Running VMs in Google Cloud Platform** *10 min* - GCP_VMs.md
+
+**Free, Quick Linux Terminal:** *10 min* - GCP_Cloud_Shell.md
 
 **Access & Grants:** *3 min* - Access_Grants.md
 
